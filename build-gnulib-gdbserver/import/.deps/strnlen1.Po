@@ -1,0 +1,31 @@
+strnlen1.o: \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/strnlen1.c \
+ ../config.h \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/strnlen1.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ string.h /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/string.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/malloc.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/xlocale.h
+
+../config.h:
+
+/data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/strnlen1.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+string.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/string.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/malloc.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/xlocale.h:

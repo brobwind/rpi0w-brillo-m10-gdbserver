@@ -1,0 +1,207 @@
+localcharset.o: \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/localcharset.c \
+ ../config.h \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/localcharset.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/fcntl.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h \
+ sys/types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/types.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ stdint.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdint.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/machine/wchar_limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/int-ll64.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/bitsperlong.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/posix_types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/stddef.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/compiler.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/posix_types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/posix_types.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/sysmacros.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/fadvise.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/fcntl.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/fcntl.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/fcntl.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/uio.h unistd.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/unistd.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/select.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/time.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/time.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/signal.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/errno.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/errno.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/errno.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/errno.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/errno-base.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/syslimits.h \
+ string.h /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/string.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/malloc.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/xlocale.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/sigcontext.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/signal.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/signal.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/signal-defs.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/siginfo.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/siginfo.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/ucontext.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/user.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/sysconf.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/pathconf.h stdlib.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdlib.h alloca.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/strings.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/memory.h stdio.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdio.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ configmake.h
+
+../config.h:
+
+/data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/localcharset.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/fcntl.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h:
+
+sys/types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/types.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+stdint.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdint.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/machine/wchar_limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/bitsperlong.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/posix_types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/stddef.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/compiler.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/posix_types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/posix_types.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/sysmacros.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/fadvise.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/fcntl.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/fcntl.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/fcntl.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/uio.h:
+
+unistd.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/unistd.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/select.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/time.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/time.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/signal.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/errno.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/errno.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/errno.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/errno.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/errno-base.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/syslimits.h:
+
+string.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/string.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/malloc.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/xlocale.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/sigcontext.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/signal.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/signal.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/signal-defs.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm/siginfo.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/asm-generic/siginfo.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/ucontext.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/user.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/sysconf.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/pathconf.h:
+
+stdlib.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdlib.h:
+
+alloca.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/strings.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/memory.h:
+
+stdio.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/stdio.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+configmake.h:

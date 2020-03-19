@@ -1,0 +1,37 @@
+math.o: \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/math.c \
+ ../config.h math.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/math.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/limits.h \
+ /tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/syslimits.h
+
+../config.h:
+
+math.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/math.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/cdefs_elf.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/android/api-level.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/linux/limits.h:
+
+/tmp/ndk-hzak/build/gdbserver/sysroot/usr/include/sys/syslimits.h:

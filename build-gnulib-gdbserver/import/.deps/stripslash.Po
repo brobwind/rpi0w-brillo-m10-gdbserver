@@ -1,0 +1,17 @@
+stripslash.o: \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/stripslash.c \
+ ../config.h \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/dirname.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdbool.h \
+ /data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/dosname.h
+
+../config.h:
+
+/data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/dirname.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stdbool.h:
+
+/data/brillo-m10-rpi-gdbserver/prebuilts/ndk/current/toolchains/linux-x86_64/arm-linux-androideabi-4.9/prebuilt/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/data/brillo-m10-rpi-gdbserver/toolchain/gdb/gdb-7.10/gdb/gdbserver/../gnulib/import/dosname.h:
